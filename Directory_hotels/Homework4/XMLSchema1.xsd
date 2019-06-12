@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema1"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="hotels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="hotel">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+
+              <xs:element name="contact" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="email" type="xs:string" />
+                    <xs:element name="phone" type="xs:string" />
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element name="address" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="number" type="xs:unsignedInt"/>
+                    <xs:element name="street" type="xs:string"/>
+                    <xs:element name="city" type="xs:string"/>
+                    <xs:element name="zip" type="xs:unsignedInt"/>
+                  </xs:all>
+                  <xs:attribute name="buslines" type="xs:string" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="stars" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

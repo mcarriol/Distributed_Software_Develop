@@ -1,0 +1,10 @@
+C:\Users\arrio\source\repos\Homework4\WebApplication\bin\WebApplication.dll.config
+C:\Users\arrio\source\repos\Homework4\WebApplication\bin\WebApplication.dll
+C:\Users\arrio\source\repos\Homework4\WebApplication\bin\WebApplication.pdb
+C:\Users\arrio\source\repos\Homework4\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
+C:\Users\arrio\source\repos\Homework4\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\arrio\source\repos\Homework4\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\arrio\source\repos\Homework4\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\arrio\source\repos\Homework4\WebApplication\bin\Homework4.exe
+C:\Users\arrio\source\repos\Homework4\WebApplication\bin\Homework4.pdb
+C:\Users\arrio\source\repos\Homework4\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
