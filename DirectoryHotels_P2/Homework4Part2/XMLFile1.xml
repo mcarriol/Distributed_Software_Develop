@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hotels>
+  <hotel stars="***">
+    <name>Holiday Inn</name>
+    <contact>
+      <email>holidayInn@gmail.com</email>
+      <phone>(480)964-7000</phone>
+    </contact>
+    <address buslines="30, 90, 250">
+      <number>1600</number>
+      <street>S Country Club Dr</street>
+      <city>Mesa</city>
+      <zip>85210</zip>
+    </address>
+  </hotel>
+  <hotel stars="****">
+    <name>Marriot Hotel</name>
+    <contact>
+      <email>marriotHotel@gmail.com</email>
+      <phone>(480)694-3000</phone>
+    </contact>
+    <address>
+      <number>1500</number>
+      <street>N Scottsdale Rd</street>
+      <city>Scottsdale</city>
+      <zip>85281</zip>
+    </address>
+  </hotel>
+  <hotel stars="**">
+    <name>Super 8</name>
+    <contact>
+      <email>super8@gmail.com</email>
+      <phone>(480)469-5000</phone>
+    </contact>
+    <address buslines="40, 72, 200">
+      <number>1300</number>
+      <street>N Hibbert St.</street>
+      <city>Mesa</city>
+      <zip>85215</zip>
+    </address>
+  </hotel>
+  <hotel stars="*****">
+    <name>Hilton Hotel</name>
+    <contact>
+      <email>hiltonHotel@gmail.com</email>
+      <phone>(480)123-9000</phone>
+    </contact>
+    <address>
+      <number>789</number>
+      <street>N 23rd St.</street>
+      <city>Phoenix</city>
+      <zip>82001</zip>
+    </address>
+  </hotel>
+  <hotel stars="****">
+    <name>Embassy Suites</name>
+    <contact>
+      <email>embassy_suites@gmail.com</email>
+      <phone>(480)800-9000</phone>
+    </contact>
+    <address buslines="20, 100, 250">
+      <number>891</number>
+      <street>S 45th St.</street>
+      <city>Phoenix</city>
+      <zip>82000</zip>
+    </address>
+  </hotel>
+</hotels>

@@ -1,0 +1,7 @@
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\obj\Debug\Homework4Part2.csprojAssemblyReference.cache
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\obj\Debug\Homework4Part2.csproj.CoreCompileInputs.cache
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\bin\Homework4Part2.dll.config
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\bin\Homework4Part2.dll
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\bin\Homework4Part2.pdb
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\obj\Debug\Homework4Part2.dll
+C:\Users\arrio\source\repos\Homework4Part2\Homework4Part2\obj\Debug\Homework4Part2.pdb
